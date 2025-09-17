@@ -26,11 +26,6 @@
 #include "pins_BTT_OCTOPUS_PRO_V1_common.h"
 
 //
-// Steppers
-//
-#define Z2_ENABLE_PIN                       PA2
-
-//
 // Heaters / Fans
 //
 #define HEATER_0_PIN                        PA0   // Heater0
